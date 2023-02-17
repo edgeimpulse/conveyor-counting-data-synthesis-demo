@@ -1,7 +1,16 @@
 # Training Models with Synthetic Data: End to End Conveyor Belt Counting Walkthrough with Edge Impulse 
 [![Youtube Demo](demo.gif)](https://www.youtube.com/watch?v=Eg-Y8UxY2Tk)
 
-This repository contains the openmv files, dataset generation notebook and source files related to this walkthrough:
+This repository contains the openmv files, dataset generation notebook, 3d printer files and source files related to this walkthrough:
 https://www.youtube.com/watch?v=Eg-Y8UxY2Tk
 
 Public project: https://github.com/edgeimpulse/conveyor-counting-data-synthesis-demo
+
+|                          | Bill Of Materials                                                      |
+|--------------------------|------------------------------------------------------------------------|
+| 60mmx500mm Conveyor Belt | https://asconveyorsystems.co.uk/type20-miniature-conveyor-belt-system/ |
+| Arduino Nicla Vision     | https://store.arduino.cc/products/nicla-vision                         |
+| M5 Nyloc Nuts            | https://uk.rs-online.com/web/p/hex-nuts/0524310                        |
+| Upright Mount x2         | conveyor belt upright.stl                                              |
+| Bottom Case              | bottom case nicla vision.stl                                           |
+| Top Case                 | top case nicla vision.stl                                              |
