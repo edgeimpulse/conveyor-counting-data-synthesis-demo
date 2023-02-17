@@ -4,7 +4,7 @@
 This repository contains the openmv files, dataset generation notebook, 3d printer files and source files related to this walkthrough:
 https://www.youtube.com/watch?v=Eg-Y8UxY2Tk
 
-Public project: https://github.com/edgeimpulse/conveyor-counting-data-synthesis-demo
+Public project: https://studio.edgeimpulse.com/public/187740/latest
 
 |                          | Bill Of Materials                                                      |
 |--------------------------|------------------------------------------------------------------------|
