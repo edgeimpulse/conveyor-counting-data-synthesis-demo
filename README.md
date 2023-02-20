@@ -1,8 +1,8 @@
 # Training Models with Synthetic Data: End to End Conveyor Belt Counting Walkthrough with Edge Impulse 
-[![Youtube Demo](demo.gif)](https://www.youtube.com/watch?v=Eg-Y8UxY2Tk)
+[![Youtube Demo](demo.gif)](https://www.youtube.com/watch?v=5IdWzaJNkk0))
 
 This repository contains the openmv files, dataset generation notebook, 3d printer files and source files related to this walkthrough:
-https://www.youtube.com/watch?v=Eg-Y8UxY2Tk
+https://www.youtube.com/watch?v=5IdWzaJNkk0
 
 Public project: https://studio.edgeimpulse.com/public/187740/latest
 
