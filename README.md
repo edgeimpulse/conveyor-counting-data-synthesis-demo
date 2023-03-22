@@ -11,6 +11,4 @@ Public project: https://studio.edgeimpulse.com/public/187740/latest
 | 60mmx500mm Conveyor Belt | https://asconveyorsystems.co.uk/type20-miniature-conveyor-belt-system/ |
 | Arduino Nicla Vision     | https://store.arduino.cc/products/nicla-vision                         |
 | M5 Nyloc Nuts            | https://uk.rs-online.com/web/p/hex-nuts/0524310                        |
-| Upright Mount x2         | conveyor belt upright.stl                                              |
-| Bottom Case              | bottom case nicla vision.stl                                           |
-| Top Case                 | top case nicla vision.stl                                              |
+| Case & upright mounts    | "Nicla Conveyor Case.obj"- Requires 4 10mm m3 bolts, 4 heat set m3 inserts & the conveyor side channel mounting hardware |
